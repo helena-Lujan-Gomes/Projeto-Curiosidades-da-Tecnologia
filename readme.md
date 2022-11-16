@@ -1,5 +1,5 @@
 <div>
-  <img align="right" src="https://user-images.githubusercontent.com/94927107/202267396-dac3e09f-9f5c-40ed-b0ac-0beda9582894.jpg" alt="Estudonauta" width="200px">
+  <img align="right" src="https://user-images.githubusercontent.com/94927107/202267396-dac3e09f-9f5c-40ed-b0ac-0beda9582894.jpg" alt="Estudonauta" width="150px">
 </div>
 #Projeto em HTML5 e CSS3
 
